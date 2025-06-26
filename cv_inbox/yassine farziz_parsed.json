@@ -1,0 +1,40 @@
+{
+    "name": "Yassine Farziz",
+    "email": "yassinefarziz2@gmail.com",
+    "phone": "] +212 667 59 31 87",
+    "address": "",
+    "birthdate": "",
+    "linkedin": ") farzizyassine",
+    "github": "",
+    "resume_title": "Expérience Professionnelle I’Agence de Développement du Digital (ADD) Conception et réalisation d’une application web d'employabilité intégrant I'intelligence artificielle Juil - aout 2024 Développemnt une application en Python utilisant flask, BeautifulSoup, scikit-learn, Kmeans, ARIMA, matplotlib,html/css, js, sqlite3 et OCR. Intercallia Développement d’un application Web Scraping Juil 2023 Développé une application en Python utilisant Tkinter, BeautifulSoup, Selenium et pandas.",
+    "profil": "Ftudiant ingénieur",
+    "skills": [
+        "Compétences Langages de Programmation: Java, Python, JavaScript, C",
+        ", PHP, C#, R Frameworks: React, Django, .NET, Flask Data Engineering: PySpark, Kafka, Power Bl, Big Query Data Science: Scikit",
+        "learn, TensorFlow, Keras, PyTorch, Pandas, NumPy, MLOps/AlOps, NLTK, SpaCy, ARIMA, LSTM, GRU Web Scraping: BeautifulSoup, Selenium, Scrapy DevOps: Git, Docker, Intégration Continue (Cl), Livraison Continue (CD), Déploiement Automatisé, Gestion de Configuration, Con",
+        "teneurisation (Docker), Orchestration de Conteneurs (Kubernetes), Surveillance et Gestion des Logs Base de Données: MySQL, Oracle, SQL Server, SQLite, Administration Oracle Méthodologies: Agile, Scrum, DevOps, JIRA Gestion de Projet: Planification, Suivi, Gestion des ressources",
+        "Certificats Web Scraping in Python: DataCamp Git and GitHub: 365 DataScience Introduction to Kubernetes: DataCamp",
+        "Projets Académiques Chatbot pour Analyse des Sentiments: Développé avec Python, HTML, CSS, JS, scikit",
+        "learn, nltk, Flask. Editeur d’Images: Création d’un éditeur d'images en HTML, CSS et JS. Portfolio Website: Développement d'un site web de portfolio en HTML, CSS et JS."
+    ],
+    "education": [
+        "Formations EMSI",
+        "Rabat Ingénierie en informatique et réseaux FSR",
+        "Rabat Science de la matiére physique et chimique G.S Lamzibri",
+        "Salé Baccalauréat en sciences physiques",
+        "Expérience Professionnelle \"Agence de Développement du Digital (ADD) Conception et réalisation d’une application web d’employabilité intégrant I'intelligence artificielle Juil",
+        "aout 2024 Développemnt une application en Python utilisant flask, BeautifulSoup, scikit",
+        "learn, Kmeans, ARIMA, matplotlib,html/css, js, sqlite3 et OCR. Intercallia Développement d'un application Web Scraping Juil 2023 Développé une application en Python utilisant Tkinter, BeautifulSoup, Selenium et pandas."
+    ],
+    "experience": [],
+    "projects": [],
+    "certifications": [
+        "Certificats Web Scraping in Python: DataCamp Git and GitHub: 365 DataScience Introduction to Kubernetes: DataCamp"
+    ],
+    "languages": [
+        "Langues Anglais: Bilingue Francais: Bilingue",
+        "Langues Anglais: Bilingue Espagnol: Intermédiaire Francais: Bilingue Arabe: Langue maternelle"
+    ],
+    "interests": [],
+    "image": false
+}

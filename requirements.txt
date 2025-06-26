@@ -1,0 +1,5 @@
+imaplib2
+requests
+mysql-connector-python
+pdf2image
+Pillow

@@ -1,0 +1,53 @@
+{
+    "name": "KHALIL BOUGRINE",
+    "email": "khalilbg461@gmail.com",
+    "phone": "+212 6 11 41 98 98",
+    "address": "https://www .linkedin.com/in/",
+    "birthdate": "",
+    "linkedin": "khalil-bougrine-8984ba297/",
+    "github": "",
+    "resume_title": "Etudiant en cinquiéme année d'ingénierie informatique et réseau a L'EMSI Rabat, passionné par le développement et les nouvelles technologies. A la recherche d'un stage de fin d'études pour renforcer mes compétences et contribuer a une équipe innovante. Motivé et prét a relever de nouveaux défis.",
+    "profil": "",
+    "skills": [
+        "COMPETENCES e Java e Spring / SpringBoot e Angular",
+        "HTML",
+        "CSS e Git",
+        "GitHub ¢ SQL ¢ SQL Server e Scrum ¢ UML",
+        "Merise"
+    ],
+    "education": [
+        "FORMATION Ecole Marocaine des Sciences de l'Ingénieur (EMSI) 2020",
+        "2025 e Cycle Ingénieur",
+        "Génie Informatique (2022",
+        "2025) e Cycle Préparatoire Integré (2020",
+        "2022) e Diplédme d'Ingénieur prévu en septembre 2025 Baccalauréat",
+        "Lycée Saladin Al Ayoubi 2019",
+        "2020 Baccalauréat Sciences physques",
+        "Mention Rien"
+    ],
+    "experience": [
+        "EXPERIENCE CDG - RABAT, MAROC (STAGE PFA) juin",
+        "2024 e Conception et développement d'une application de gestion de retraite en utilisant Angular et Spring Boot.",
+        "o Création des interfaces utilisateur et intégration avec le backend.",
+        "o Implémentation des fonctionnalités principales: soumission et gestion des demandes de retraite, recherche et modification des informations utilisateur, gestion des roles et des acces.",
+        "¢ Analyse et correction des anomalies.",
+        "o Stockage et gestion des données avec SQL Server.",
+        "Technologies: Angular, HTML, CSS, Bootstrap, Spring Boot, Java, Hibernate, SQL Server, Git, Postman.",
+        "ONCF - DEPARTEMENT FRETNET ET LOGISTIQUE, RABAT, (STAGE D'ETE) juin",
+        "2023 Automatisation du traitement des données a partir d'une base Excel en développant une application web.",
+        "Création d'une interface web permettant aux administrateurs de se connecter et d'effectuer des recherches avancées avec filtres pour une analyse plus précise des données.",
+        "Intégration et transformation des données Excel dans l'interface d'administration de Django.",
+        "Développement du backend avec Django pour gérer l'authentification et la récupération des données.",
+        "Implémentation du frontend en HTML, CSS et JavaScript pour une interface interactive et conviviale.",
+        "chnologies: Django, Python, HTML, CSS, JavaScript, SQLite, Git."
+    ],
+    "projects": [],
+    "certifications": [],
+    "languages": [
+        "LANGUES Francais: Trés bon niveau Anglais: Bon niveau"
+    ],
+    "interests": [
+        "CENTRES D'INTERET e Sport e Jeux Vidéos ¢ Randonnées"
+    ],
+    "image": true
+}

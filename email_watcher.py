@@ -65,13 +65,11 @@ def insert_into_db(data):
             INSERT INTO fiche_candidat (
                 name, email, phone, address, birthdate, linkedin, github,
                 resume_title, profil, skills, education, experience,
-                projects, certifications, languages, interests,
-                image, matching_score, missing_skills, resume_summary
+                projects, certifications, languages, interests, image, created_at
             ) VALUES (
                 %(name)s, %(email)s, %(phone)s, %(address)s, %(birthdate)s, %(linkedin)s, %(github)s,
                 %(resume_title)s, %(profil)s, %(skills)s, %(education)s, %(experience)s,
-                %(projects)s, %(certifications)s, %(languages)s, %(interests)s,
-                %(image)s, %(matching_score)s, %(missing_skills)s, %(resume_summary)s
+                %(projects)s, %(certifications)s, %(languages)s, %(interests)s, %(image)s, NOW()
             )
         """
 
@@ -80,7 +78,7 @@ def insert_into_db(data):
             'email': data.get('email'),
             'phone': data.get('phone'),
             'address': data.get('address'),
-            'birthdate': data.get('birthdate'),
+            'birthdate': data.get('birthdate') if data.get('birthdate') else None,
             'linkedin': data.get('linkedin'),
             'github': data.get('github'),
             'resume_title': data.get('resume_title'),
@@ -92,11 +90,9 @@ def insert_into_db(data):
             'certifications': json.dumps(data.get('certifications')),
             'languages': json.dumps(data.get('languages')),
             'interests': json.dumps(data.get('interests')),
-            'image': data.get('image'),
-            'matching_score': data.get('matching_score'),
-            'missing_skills': json.dumps(data.get('missing_skills')),
-            'resume_summary': data.get('resume_summary')
+            'image': data.get('image')
         })
+
 
         connection.commit()
         print(f"🟢 Insertion MySQL réussie pour : {data.get('email')}")

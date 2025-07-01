@@ -1,0 +1,60 @@
+{
+    "name": "Yassine Chalati",
+    "email": "yassine.chalati.07@gmail.com",
+    "phone": "+212 680-888145",
+    "address": ") Marrakech (Mobité nationale Cois",
+    "birthdate": "",
+    "linkedin": "",
+    "github": "",
+    "resume_title": "Etudiant en 5 éme année du cycle d'ingénieur en informatique, Je Suis un grand passionné de T et des nouvelles technologies. Toujours prét & mettre mon savair-faire et savoir-étre 3 disposition en vue de réussir mes projets professionnels",
+    "profil": "LEVE INGENIEUR INFORMATIQUE",
+    "skills": [
+        "COMPETENCES TECHNIQUES « Java/EE « Spring framework « Méthodologie Agile Scrum « Notions DevOps. © Architecture microservice Angular / react.",
+        "Analyse et correction des bugs. s",
+        "CERTIFICATS Coursers Inroduction o Containers w/ Docker, Kubernetes & OpenShit. Coursara Inroductin t Devos, Coursers Inroduction o Agie Development and Scru, Prastnd",
+        "s",
+        "cum g S NP UL,"
+    ],
+    "education": [
+        "FORMATION 2024",
+        "2025 Master M2 intelligence artificiel Université Cote d'azur",
+        "Délocalisé & Marrakech 2023",
+        "2025 Seme année cycle dingénieur",
+        "INGENIERIE INFORMATIQUE ET RESEAUX Ecole marocaine des sciences de ingénieur",
+        "Marrakech 2022",
+        "2023 Licence Professionnelle",
+        "Développements des Systémes dinformation et de communication EST",
+        "Université Moulay Tsmail",
+        "Mekné 2020",
+        "2022 DUT",
+        "Génie informatique EST",
+        "Université Sultan Moulay Slimane",
+        "Béni Mellal",
+        "CERTIFICATS Coursers Inroduction o Containers w/ Docker, Kubernetes & OpenShit. Coursara Inroductin t Devos, Coursers Inroduction o Agie Development and Scru, and Coject",
+        "Onenad Programming,"
+    ],
+    "experience": [
+        "EXPERIENCE PROFESSIONNELLES Stages en informatique: Menara Holding - Marrakech +Taches: ‘Analyse des besoins clients.",
+        "Analyse de l'éxistance ‘Conception et programmation c'applications et de solutions logicielles dans le respect du cahier des charges.",
+        "Réalisation d'applications web distribué.",
+        "Participation aux réunions d'équipe pour discuter des progrés, des défis et des opportunités lides au développement logicel.",
+        "+Technologies: ‘Spring Boot, Spring Cloud, Spring Sécurité React (TypeScript, HTML et CSS).",
+        "Architecture microservice."
+    ],
+    "projects": [
+        "PROJETS ACADEMIQUE Développement de projet",
+        "E",
+        "Commerce en Spring (MicroService) et React et React native. Développement de projet",
+        "Chat application from scratch utiisant java, javaF, RMI, Thread, Socket, créant un protocole de communication, utllsation d'architecture ‘avancde pour maintenance d'application, et architecture client/Server."
+    ],
+    "certifications": [],
+    "languages": [
+        "LANGUES",
+        "Francais Intermidaie TCF 82 lais Aemadiare",
+        "Arabe Waternelle"
+    ],
+    "interests": [],
+    "image": true,
+    "nom_fichier": "cv_yassine_chalati.jpg",
+    "type_fichier": "image/jpeg"
+}

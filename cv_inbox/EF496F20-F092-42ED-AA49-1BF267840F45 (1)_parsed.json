@@ -1,0 +1,44 @@
+{
+    "name": "",
+    "email": "lIham.guerouan@gmail.com",
+    "phone": "+212631212319",
+    "address": "",
+    "birthdate": "",
+    "linkedin": "",
+    "github": "",
+    "resume_title": "Business Analyst technique spécialisé dans les APIs, avec une solide expérience en integration et optimisation des systemes informatiques",
+    "profil": "",
+    "skills": [
+        "Compétences » Langages: Java, SQL",
+        "Gestion de projet",
+        "Automatisation des tests e Conception et architecture de logiciels » Résolution de probléemes ¢ Qutils (Jira, Confluence, Grafana, Vault, Postman)"
+    ],
+    "education": [
+        "Formations Ingénieur en science de l'information géographique Ecole Hassania des travaux publics Casablanca 2020 2023 CPGE Mathématique Physiques (MP) Fes Alcachy 2018 2020 Baccalauréat sciences mathématiques Option Frangaise Fes Ibn Hazm 2017 2018"
+    ],
+    "experience": [
+        "Expériences professionnelles Société générale ABS |t Business Analyst Casablanca Février",
+        "2023 Présent -Recueil du besoin auprés des métiers dans 7 filiales en AFs.",
+        "« Animation des ateliers avec le métier, le product owner et les différentes parties prenantes.",
+        "« Rédaction des User Stories et priorisation du backlog de fonctionnalités.",
+        "« Elaboration des scénarios de tests et tests des APIs.",
+        "« Assister activement les développeurs dans la fabrication du produit.",
+        "« Contribuer a la conduite du changement (documentation, accompagnement, formation, communication...).",
+        "« Suivre le déploiement de I'application jusqu’en environnement de production.",
+        "« Gestion de la phase RUN en étant support principal des clients.",
+        "Analyse technique des anomalies et des évolutions demandées.",
+        "Openmind Ingénieur Full Stack Casablanca Juin",
+        "2022 Développement d'un site de e-commerce en utilisant Java et react, incluant la conception de l'architecture et I'integration des APIS."
+    ],
+    "projects": [],
+    "certifications": [
+        "Centres d'intéréts",
+        "Thééatre: expérience en tant qu’acteur et metteur en scéne dans des productions locales .",
+        "Bénévolat: Organisation des événements caritatifs ."
+    ],
+    "languages": [],
+    "interests": [],
+    "image": true,
+    "nom_fichier": "EF496F20-F092-42ED-AA49-1BF267840F45 (1).pdf",
+    "type_fichier": "application/pdf"
+}
